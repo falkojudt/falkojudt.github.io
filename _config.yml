@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Falko Judt"
   avatar           : "headshot.598x792.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Research meteorologist at the National Center for Atmospheric Research."
   location         : "Boulder, CO"
   employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=b1HUYYMAAAAJ&hl=en"
-  email            :
+  email            : fjudt@ucar.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
