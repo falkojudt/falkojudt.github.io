@@ -2,14 +2,14 @@
   - title: "About"
     url: /about/
 
-  - title: "Publications"
-    url: /publications/
+#   - title: "Publications"
+#     url: /publications/
 
-  - title: "CV"
-    url: /cv/
+#   - title: "CV"
+#     url: /cv/
 
-  - title: "Media"
-    url: /media/
+#   - title: "Media"
+#     url: /media/
 
-  - title: "Contact"
-    url: /contact/
+#   - title: "Contact"
+#     url: /contact/
