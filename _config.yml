@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Falko Judt"
   avatar           : "headshot.598x792.jpg"
-  bio              : "Research meteorologist at the National Center for Atmospheric Research. Hurricane aficionado."
+  bio              : "Research meteorologist at NCAR. Hurricane aficionado."
   location         : "Boulder, CO"
-  employer         : National Center for Atmospheric Research
+  employer         : "National Center for \nAtmospheric Research"
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=b1HUYYMAAAAJ&hl=en"
   email            : fjudt@ucar.edu
