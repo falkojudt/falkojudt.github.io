@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
  -->
+
+---
 title: "Falko Judt" 
 layout: archive
 permalink: /
@@ -25,6 +27,7 @@ redirect_from:
   - /about/
   - /about.html
 author_profile: true
+---
 
 <style>.page__hero--overlay {min-height:calc(100vw * 0.2)}</style>
 
