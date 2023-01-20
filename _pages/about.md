@@ -5,7 +5,7 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.1"
-  overlay_image: canes.jpg
+  overlay_image: canes2.jpg
   #actions:
   #  - label: "Download"
   #    url: "#test-link"
@@ -18,7 +18,7 @@ redirect_from:
 author_profile: true
 ---
 
-<style>.page__hero--overlay {min-height:calc(10vw * 0.2)}</style>
+<style>.page__hero--overlay {min-height:calc(100vw * 0.2)}</style>
 
 I am a research meteorologist in the [Mesoscale and Microscale Meteorology Laboratory (MMM)](https://www.mmm.ucar.edu) at the [National Center for Atmospheric Research (NCAR)](https://ncar.ucar.edu). My interests are in tropical meteorology (especially hurricanes), atmospheric predictability, and more broadly, the science behind weather prediction.
 
