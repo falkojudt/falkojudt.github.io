@@ -17,13 +17,13 @@ Education
 
 Work experience
 ======
-* 2022--present: Scientist II
+* 2022&#150present: Scientist II
   * National Center for Atmospheric Research
 
-* 2018--2022: Scientist I
+* 2018&#1502022: Scientist I
   * National Center for Atmospheric Research
 
-* 2016--2018: *Advanced Study Program* Postdoc
+* 2016&#1502018: *Advanced Study Program* Postdoc
   * National Center for Atmospheric Research
 
   
