@@ -1,4 +1,4 @@
----
+<!-- ---
 permalink: /
 title: ""
 excerpt: "About me"
@@ -7,6 +7,24 @@ redirect_from:
   - /about/
   - /about.html
 ---
+ -->
+title: "Falko Judt" 
+layout: archive
+permalink: /
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.1"
+  overlay_image: IMG_2922.JPG
+  #actions:
+  #  - label: "Download"
+  #    url: "#test-link"
+excerpt: "Hurricanes and Weather Prediction"
+classes:
+  - about_class
+redirect_from: 
+  - /about/
+  - /about.html
+author_profile: true
 
 <style>.page__hero--overlay {min-height:calc(100vw * 0.2)}</style>
 
