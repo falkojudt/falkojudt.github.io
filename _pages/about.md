@@ -5,7 +5,7 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.1"
-  overlay_image: canes2.jpg
+  overlay_image: canes3.jpg
   #actions:
   #  - label: "Download"
   #    url: "#test-link"
