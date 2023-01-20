@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Meteorology and Physical Oceanography, University of Miami, 2014
+* M.S. in Meteorology and Physical Oceanography, University of Miami, 2009
+* *Vordiplom* in Physics and Meteorology, University of Leipzig, 2004
 
 Work experience
 ======
@@ -27,7 +27,7 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
@@ -57,3 +57,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+ -->
