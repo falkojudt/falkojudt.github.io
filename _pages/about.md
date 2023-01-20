@@ -1,4 +1,16 @@
-I am a research meteorologist in the . My interests are in tropical meteorology (especially hurricanes), atmospheric predictability, and more broadly, the science behind weather prediction.
+---
+permalink: /
+title: "Falko Judt"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+<style>.page__hero--overlay {min-height:calc(100vw * 0.2)}</style>
+
+I am a research meteorologist in the [Mesoscale and Microscale Meteorology Laboratory (MMM)](https://www.mmm.ucar.edu) at the [National Center for Atmospheric Research (NCAR)](https://ncar.ucar.edu). My interests are in tropical meteorology (especially hurricanes), atmospheric predictability, and more broadly, the science behind weather prediction.
 
 I received my PhD in Meteorology and Oceanography in 2014 from the University of Miami in Miami, Florida, USA. In 2016, traded the beach for the mountains and moved to Colordao to become an Advanced Study Program postdoc at NCAR. In 2018, I was hired as a Scientist I in MMM, and I was promoted to Scientist II in 2022.
 
