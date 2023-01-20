@@ -5,7 +5,7 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.1"
-  overlay_image: irma.jpg
+  overlay_image: Irma_2.jpeg
   #actions:
   #  - label: "Download"
   #    url: "#test-link"
