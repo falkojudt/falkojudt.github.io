@@ -17,15 +17,15 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2022--present: Scientist II
+  * National Center for Atmospheric Research
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018--2022: Scientist I
+  * National Center for Atmospheric Research
+
+* 2016--2018: *Advanced Study Program* Postdoc
+  * National Center for Atmospheric Research
+
   
 <!-- Skills
 ======
