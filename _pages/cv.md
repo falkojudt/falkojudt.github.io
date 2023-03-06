@@ -28,7 +28,7 @@ redirect_from:
 <ul>
   <li>Ph.D in Meteorology and Physical Oceanography, University of Miami, 2014</li>
   <li>M.S. in Meteorology and Physical Oceanography, University of Miami, 2009</li>
-  <li>*Vordiplom* in Physics and Meteorology, University of Leipzig, 2004</li>
+  <li>Vordiplom (BS equivalent) in Physics and Meteorology, University of Leipzig, 2004</li>
 </ul>
 
 <h2>Work experience</h2>
