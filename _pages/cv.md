@@ -29,8 +29,8 @@ Work experience
 Download CV
 ======
 <div class="cv-download">
-  <a href="/current_cv.pdf" download>
-    <img src="/cv-icon.png" alt="Download CV" width="64" height="64"> Download CV
+  <a href="../current_cv.pdf" download>
+    <img src="../cv-icon.png" alt="Download CV" width="64" height="64"> Download CV
   </a>
 </div>
 
