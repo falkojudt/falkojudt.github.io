@@ -28,13 +28,15 @@ redirect_from:
   <li><em>Vordiplom</em> (BS equivalent) in Physics and Meteorology, University of Leipzig, 2004</li>
 </ul>
 
-<h2>Work experience</h2>
+<h2>Positions held</h2>
 <ul>
   <li>2022–present: Scientist II<br> National Center for Atmospheric Research</li>
   <li>2018–2022: Scientist I<br> National Center for Atmospheric Research</li>
   <li>2016–2018: <em>Advanced Study Program</em> Postdoc<br> National Center for Atmospheric Research</li>
+  <li>2015: Postdoc<br> in the Ocean Science Department at the University of Miami</li>
 </ul>
 
+<h2>Download full CV here (pdf)</h2>
 <div class="cv-download" style="padding-top: 30px;">
   <a href="../CV.pdf" download>
     <img src="../cv-icon.png" width="64" height="64"> Download CV
