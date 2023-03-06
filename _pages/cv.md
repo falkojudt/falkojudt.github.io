@@ -23,9 +23,9 @@ redirect_from:
 
 <h2>Education</h2>
 <ul>
-  <li>Ph.D in Meteorology and Physical Oceanography, University of Miami, 2014</li>
-  <li>M.S. in Meteorology and Physical Oceanography, University of Miami, 2009</li>
-  <li><em>Vordiplom</em> (BS equivalent) in Physics and Meteorology, University of Leipzig, 2004</li>
+  <li><strong>Ph.D in Meteorology and Physical Oceanography,</strong> University of Miami, 2014</li>
+  <li><strong>M.S. in Meteorology and Physical Oceanography,</strong> University of Miami, 2009</li>
+  <li><strong><em>Vordiplom</em> (BS equivalent) in Physics and Meteorology,</strong> University of Leipzig, 2004</li>
 </ul>
 
 <h2>Positions held</h2>
