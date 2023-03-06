@@ -11,10 +11,10 @@ redirect_from:
 
 <style>
   .cv-download {
-    margin-bottom: 20px;
+    margin-bottom: 100px;
   }
   h2 {
-    padding-top: 20px;
+    padding-top: 100px;
   }
 </style>
 
