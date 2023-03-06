@@ -9,6 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+Download CV (pdf) here
+======
+<div class="cv-download">
+  <a href="../CV.pdf" download>
+    <img src="../cv-icon.png" width="64" height="64"> Download CV
+  </a>
+</div>
+
 Education
 ======
 * Ph.D in Meteorology and Physical Oceanography, University of Miami, 2014
@@ -26,13 +34,6 @@ Work experience
 * 2016–2018: *Advanced Study Program* Postdoc
   * National Center for Atmospheric Research
 
-Download CV (pdf) here
-======
-<div class="cv-download">
-  <a href="../CV.pdf" download>
-    <img src="../cv-icon.png" width="64" height="64"> Download CV
-  </a>
-</div>
 
 
 <!-- Skills
