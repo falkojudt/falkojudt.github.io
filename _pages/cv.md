@@ -30,10 +30,10 @@ redirect_from:
 
 <h2>Positions held</h2>
 <ul>
-  <li>2022–present: Scientist II<br> National Center for Atmospheric Research, Boulder, CO</li>
-  <li>2018–2022: Scientist I<br> National Center for Atmospheric Research, Boulder, CO</li>
-  <li>2016–2018: <em>Advanced Study Program</em> Postdoc<br> National Center for Atmospheric Research, Boulder, CO</li>
-  <li>2015: Postdoc<br> Ocean Science Department at the University of Miami, Miami, FL</li>
+  <li><strong>2022–present: Scientist II</strong><br> National Center for Atmospheric Research, Boulder, CO</li>
+  <li><strong>2018–2022: Scientist I</strong><br> National Center for Atmospheric Research, Boulder, CO</li>
+  <li><strong>2016–2018: <em>Advanced Study Program</em> Postdoc</strong><br> National Center for Atmospheric Research, Boulder, CO</li>
+  <li><strong>2015: Postdoc</strong><br> Ocean Science Department at the University of Miami, Miami, FL</li>
 </ul>
 
 <h2>Download full CV here</h2>
