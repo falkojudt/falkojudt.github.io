@@ -26,6 +26,12 @@ Work experience
 * 2016–2018: *Advanced Study Program* Postdoc
   * National Center for Atmospheric Research
 
+<div class="cv-download">
+  <a href="/CV.pdf" download>
+    <img src="/cv-icon.png" alt="Download CV"> Download CV
+  </a>
+</div>
+
   
 <!-- Skills
 ======
