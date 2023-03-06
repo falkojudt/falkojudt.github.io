@@ -39,6 +39,6 @@ redirect_from:
 <h2>Download full CV here (pdf)</h2>
 <div class="cv-download" style="padding-top: 30px;">
   <a href="../CV.pdf" download>
-    <img src="../cv-icon.png" width="64" height="64"> Download CV
+    <img src="../cv-icon.png" width="64" height="64"> click to download CV
   </a>
 </div>
