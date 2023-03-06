@@ -30,7 +30,7 @@ Download CV (pdf) here
 ======
 <div class="cv-download">
   <a href="../CV.pdf" download>
-    <img src="../cv-icon.png" alt="" width="64" height="64"> Download CV
+    <img src="../cv-icon.png" width="64" height="64"> Download CV
   </a>
 </div>
 
