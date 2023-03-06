@@ -26,6 +26,15 @@ Work experience
 * 2016–2018: *Advanced Study Program* Postdoc
   * National Center for Atmospheric Research
 
+Download CV
+======
+<div class="cv-download">
+  <a href="/current_cv.pdf" download>
+    <img src="/cv-icon.png" alt="Download CV" width="64" height="64"> Download CV
+  </a>
+</div>
+
+
 <!-- Skills
 ======
 * Skill 1
@@ -58,8 +67,3 @@ Service and leadership
 * Currently signed in to 43 different slack teams
  -->
 
-<div class="cv-download">
-  <a href="/current_cv.pdf" download>
-    <img src="/cv-icon.png" alt="Download CV" width="64" height="64"> Download CV
-  </a>
-</div>
