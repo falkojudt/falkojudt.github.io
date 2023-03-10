@@ -38,7 +38,7 @@ redirect_from:
 
 <h2>Download full CV here</h2>
 <div class="cv-download" style="padding-top: 30px;">
-  <a href="../CV.pdf" download>
+  <a href="../CV_FalkoJudt_2023-03-10.pdf" download>
     <img src="../cv-icon.png" width="64" height="64"> 
     click to download pdf
   </a>
