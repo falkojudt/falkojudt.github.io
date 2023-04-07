@@ -6,7 +6,12 @@ author_profile: true
 ---
 
 
-1. **Judt, F.,** and S. S. Chen, 2014: An Explosive Convective Cloud System and its Environmental Con- ditions in MJO Initiation Observed during DYNAMO. *J. Geophys. Res. Atmos.,* **119,** 2781–2795, [https://doi.org/10.1002/2013JD021048](https://doi.org/10.1002/2013JD021048) [[pdf]](https://falkojudt.github.io/files/Judt%20and%20Chen%202014%20-%20An%20explosive%20convective%20cloud%20system%20and%20its%20environmental%20conditions%20in%20MJO%20initiation%20observed%20during%20DYNAMO.pdf)
+<ol>
+    <li><strong>Judt, F.,</strong> and S. S. Chen, 2014: An Explosive Convective Cloud System and its Environmental Con- ditions in MJO Initiation Observed during DYNAMO. <em>J. Geophys. Res. Atmos.,</em> <strong>119,</strong> 2781–2795, <a href="https://doi.org/10.1002/2013JD021048">https://doi.org/10.1002/2013JD021048</a> <a href="https://falkojudt.github.io/files/Judt%20and%20Chen%202014%20-%20An%20explosive%20convective%20cloud%20system%20and%20its%20environmental%20conditions%20in%20MJO%20initiation%20observed%20during%20DYNAMO.pdf">[pdf]</a></li>
+    <li><strong>Judt, F.,</strong> and S. S. Chen, 2013: Reply to “Comments on ‘Convectively Generated Potential Vorticity in Rainbands and Formation of the Secondary Eyewall in Hurricane Rita of 2005’”. <em>J. Atmos. Sci.,</em> <strong>70,</strong> 989–992, <a href="https://doi.org/10.1175/JAS-D-12-0151.1">https://doi.org/10.1175/JAS-D-12-0151.1</a> <a href="https://falkojudt.github.io/files/Judt%20and%20Chen%202013%20-%20Reply%20to%20“Comments%20on%20‘Convectively%20Generated%20Poten%20...%20ds%20and%20Formation%20of%20the%20Secondary%20Eyewall%20in%20Hurricane%20Rita%20of%202005'”.pdf">[pdf]</a></li>
+</ol>
+{reversed="reversed"}
+<!-- 1. **Judt, F.,** and S. S. Chen, 2014: An Explosive Convective Cloud System and its Environmental Con- ditions in MJO Initiation Observed during DYNAMO. *J. Geophys. Res. Atmos.,* **119,** 2781–2795, [https://doi.org/10.1002/2013JD021048](https://doi.org/10.1002/2013JD021048) [[pdf]](https://falkojudt.github.io/files/Judt%20and%20Chen%202014%20-%20An%20explosive%20convective%20cloud%20system%20and%20its%20environmental%20conditions%20in%20MJO%20initiation%20observed%20during%20DYNAMO.pdf)
 
 2. **Judt, F.,** and S. S. Chen, 2013: Reply to “Comments on ‘Convectively Generated Potential Vorticity in Rainbands and Formation of the Secondary Eyewall in Hurricane Rita of 2005’”. *J. Atmos. Sci.,* **70,** 989–992, [https://doi.org/10.1175/JAS-D-12-0151.1](https://doi.org/10.1175/JAS-D-12-0151.1)     [[pdf]](https://falkojudt.github.io/files/Judt%20and%20Chen%202013%20-%20Reply%20to%20“Comments%20on%20‘Convectively%20Generated%20Poten%20...%20ds%20and%20Formation%20of%20the%20Secondary%20Eyewall%20in%20Hurricane%20Rita%20of%202005'”.pdf)
 
@@ -14,7 +19,7 @@ author_profile: true
 
 4. **Judt, F.,** and S. S. Chen, 2010: Convectively Generated Potential Vorticity in Rainbands and Formation of the Secondary Eyewall in Hurricane Rita of 2005. *J. Atmos. Sci.,* **67**, 3581–3599, [https://doi.org/10.1175/2010JAS3471.1](https://doi.org/10.1175/2010JAS3471.1) [[pdf]](https://falkojudt.github.io/files/Judt%20and%20Chen%202010%20-%20Convectively%20Generated%20Potential%20Vorticity%20in%20Rainbands%20and%20Formation%20of%20the%20Secondary%20Eyewall%20in%20Hurricane%20Rita%20of%202005.pdf)
 
-
+ -->
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
