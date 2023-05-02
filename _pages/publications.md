@@ -19,7 +19,8 @@ author_profile: true
     </li>
     <li><strong>Judt, F.,</strong> and R. Rios-Berrios, 2021: Resolved Convection Improves the Representation of Equatorial Waves and Tropical Rainfall Variability in a Global Nonhydrostatic Model. <em>Geophys. Res. Let.,</em> <strong>48,</strong> e2021GL093265, <a href="https://doi.org/10.1029/2021GL093265">https://doi.org/10.1029/2021GL093265</a>.
     </li>
-    <li><strong>Judt, F.,</strong> D. Klocke, R. Rios-Berrios, and 23 co-authors, 2021: Tropical Cyclones in Global Storm-Resolving Simulations. <em>J. Meteor. Soc. Japan,</em> <strong>99,</strong> 579–602, <a href="https://doi.org/10.2151/jmsj.2021-029">https://doi.org/10.2151/jmsj.2021-029.</href></li>
+    <li><strong>Judt, F.,</strong> D. Klocke, R. Rios-Berrios, and 23 co-authors, 2021: Tropical Cyclones in Global Storm-Resolving Simulations. <em>J. Meteor. Soc. Japan,</em> <strong>99,</strong> 579–602, <a href="https://doi.org/10.2151/jmsj.2021-029">https://doi.org/10.2151/jmsj.2021-029.</a>
+    </li>
     <li>Wu, C.-C., L.-Z. Shen, and <strong>F. Judt,</strong> 2021: The Role of Surface Heat Fluxes on the Size of Typhoon
         Megi (2016). <em>J. Atmos. Sci.,</em> <strong>78,</strong> 1075–1093, <a href="https://doi.org/10.1175/JAS-D-20-0141.1">https://doi.org/10.1175/JAS-D-20-0141.1</a>.
     </li>
