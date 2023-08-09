@@ -7,6 +7,8 @@ author_profile: true
 
 
 <ol>
+    <li><strong>F. Judt,</strong> R. Rios-Berrios, and G. H. Bryan, 2023: Marathon vs. Sprint: Two Modes of Tropical Cyclone Rapid Intensification in a Global Convection-Permitting Simulation. <em>Mon. Wea. Rev.,</em> in print, <a href="https://doi.org/10.1175/MWR-D-23-0038.1">https://doi.org/10.1175/MWR-D-23-0038.1</a>. <a href="https://falkojudt.github.io/files/mwre-MWR-D-23-0038.1.pdf">[pdf]</a>
+    </li>
     <li>Rios-Berrios, R., <strong>F. Judt,</strong> G. H. Bryan, B. Medeiros, and W. Wang, 2023: Three-Dimensional Structure of Convectively Coupled Equatorial Waves in Aquaplanet Experiments with Resolved or Parameterized Convection. <em>J. Climate,</em> <strong>36,</strong> 2895–2915, <a href="https://doi.org/10.1175/JCLI-D-22-0422.1">https://doi.org/10.1175/JCLI-D-22-0422.1</a>. <a href="https://falkojudt.github.io/files/Rios-Berrios%20et%20al.%202023%20-%20Three-Dimensional%20Structure%20of%20Convectively%20C%20...%20s%20in%20Aquaplanet%20Experiments%20with%20Resolved%20or%20Parameterized%20Convection.pdf">[pdf]</a>
     </li>
     <li>Rotunno, R., C. Snyder, and <strong>F. Judt,</strong> 2023: Upscale versus up-amplitude growth of forecast-error spectra. <em>J. Atmos. Sci.,</em> <strong>80,</strong> 63–72, <a href="https://doi.org/10.1175/JAS-D-22-0070.1">https://doi.org/10.1175/JAS-D-22-0070.1</a>. <a href="https://falkojudt.github.io/files/Rotunno%20et%20al.%202022%20-%20Upscale%20versus%20“Up-Amplitude”%20Growth%20of%20Forecast-Error%20Spectra.pdf">[pdf]</a>
