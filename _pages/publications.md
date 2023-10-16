@@ -7,7 +7,9 @@ author_profile: true
 
 
 <ol>
-    <li><strong>F. Judt,</strong> R. Rios-Berrios, and G. H. Bryan, 2023: Marathon vs. Sprint: Two Modes of Tropical Cyclone Rapid Intensification in a Global Convection-Permitting Simulation. <em>Mon. Wea. Rev.,</em> in print, <a href="https://doi.org/10.1175/MWR-D-23-0038.1">https://doi.org/10.1175/MWR-D-23-0038.1</a>. <a href="https://falkojudt.github.io/files/mwre-MWR-D-23-0038.1.pdf">[pdf]</a>
+    <li><strong>Judt, F.,</strong> R. Rios-Berrios, and G. H. Bryan, 2023: Marathon vs. Sprint: Two Modes of Tropical Cyclone Rapid Intensification in a Global Convection-Permitting Simulation. <em>Mon. Wea. Rev.,</em> <strong>151,</strong> 2683–2699, <a href="https://doi.org/10.1175/MWR-D-23-0038.1">https://doi.org/10.1175/MWR-D-23-0038.1</a>. <a href="https://falkojudt.github.io/files/mwre-MWR-D-23-0038.1.compressed.pdf">[pdf]</a>
+    </li>
+    <li>Chen, X., C. M. Rozoff, R. F. Rogers, C. L. Corbosiero, and 10 co-authors (incl. <strong>Judt, F.</strong>), 2023: Research Advances on Internal Processes Affecting Tropical Cyclone Intensity Change from 2018–2022. <em>Trop. Cyclone Res. Rev.,</em> <strong>12,</strong> 10–29, <a href="https://doi.org/10.1016/j.tcrr.2023.05.001">https://doi.org/10.1016/j.tcrr.2023.05.001</a>. <a href="https://falkojudt.github.io/files/Chen%20et%20al.%202023%20-%20Research%20Advances%20on%20Internal%20Processes%20Affecting%20Tropical%20Cyclone%20Intensity%20Change%20from%202018–2022.pdf">[pdf]</a>
     </li>
     <li>Rios-Berrios, R., <strong>F. Judt,</strong> G. H. Bryan, B. Medeiros, and W. Wang, 2023: Three-Dimensional Structure of Convectively Coupled Equatorial Waves in Aquaplanet Experiments with Resolved or Parameterized Convection. <em>J. Climate,</em> <strong>36,</strong> 2895–2915, <a href="https://doi.org/10.1175/JCLI-D-22-0422.1">https://doi.org/10.1175/JCLI-D-22-0422.1</a>. <a href="https://falkojudt.github.io/files/Rios-Berrios%20et%20al.%202023%20-%20Three-Dimensional%20Structure%20of%20Convectively%20C%20...%20s%20in%20Aquaplanet%20Experiments%20with%20Resolved%20or%20Parameterized%20Convection.pdf">[pdf]</a>
     </li>
