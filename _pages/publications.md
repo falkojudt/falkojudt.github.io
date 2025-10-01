@@ -7,6 +7,14 @@ author_profile: true
 
 
 <ol>
+    <li><strong>Judt, F.,</strong> and R. Rios-Berrios: Sensitivity of Tropical Wave Structure to Resolution and Convection Treatment in a Global Non-Hydrostatic Model. <em>J. Meteor. Soc. Japan, in press,</em>  <a href="https://www.jstage.jst.go.jp/article/jmsj/advpub/0/advpub_2025-036/_article/-char/en">https://doi.org/10.2151/jmsj.2025-036</a>. <a href="https://falkojudt.github.io/files/2025-036_HPC_JUDT.pdf">[pdf]</a>
+    </li>
+    <li><strong>Judt, F.,</strong> R. Rios-Berrios, and G. H. Bryan, 2025: Reply to “Comment on ’Marathon vs. Sprint: Two Modes of Tropical Cyclone Rapid Intensification in a Global Convection-Permitting Simulation.’“ <em>Mon. Wea. Rev.,</em> <strong>153,</strong> 369–370, <a href="https://journals.ametsoc.org/view/journals/mwre/153/2/MWR-D-24-0107.1.xml">https://doi.org/10.1175/MWR-D-24-0107.1</a>. <a href="https://falkojudt.github.io/files/mwre-MWR-D-24-0107.1.pdf">[pdf]</a>
+    </li>
+    <li>Feng, J., <strong>F. Judt,</strong> J. Zhang, and X. Wang, 2024: Influence of region-dependent error growth on the predictability of track and intensity of Typhoon Chan-hom (2020) in high-resolution HWRF ensembles. <em>Atmos. Res.,</em> <strong>308,</strong> 107536, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0169809524003181">https://doi.org/10.1016/j.atmosres.2024.107536</a>. <a href="https://falkojudt.github.io/files/1-s2.0-S0169809524003181-main">[pdf]</a>
+    </li>
+    <li>Hartman, C., <strong>F. Judt,</strong>, and X. Chen, 2024: Influence of Local Water Vapor Analysis Uncertainty on Ensemble Forecasts of Tropical Cyclogenesis Using Hurricane Irma (2017) as a Testbed. <em>Mon. Wea. Rev.,</em> <strong>152,</strong> 1321–1338, <a href="https://journals.ametsoc.org/view/journals/mwre/153/2/MWR-D-24-0107.1.xml">https://doi.org/10.1175/MWR-D-23-0195.1</a>. <a href="https://falkojudt.github.io/files/mwre-MWR-D-23-0195.1.pdf">[pdf]</a>
+    </li>
     <li><strong>Judt, F.,</strong> R. Rios-Berrios, and G. H. Bryan, 2023: Marathon vs. Sprint: Two Modes of Tropical Cyclone Rapid Intensification in a Global Convection-Permitting Simulation. <em>Mon. Wea. Rev.,</em> <strong>151,</strong> 2683–2699, <a href="https://doi.org/10.1175/MWR-D-23-0038.1">https://doi.org/10.1175/MWR-D-23-0038.1</a>. <a href="https://falkojudt.github.io/files/mwre-MWR-D-23-0038.1.compressed.pdf">[pdf]</a>
     </li>
     <li>Chen, X., C. M. Rozoff, R. F. Rogers, C. L. Corbosiero, and 10 co-authors (incl. <strong>Judt, F.</strong>), 2023: Research Advances on Internal Processes Affecting Tropical Cyclone Intensity Change from 2018–2022. <em>Trop. Cyclone Res. Rev.,</em> <strong>12,</strong> 10–29, <a href="https://doi.org/10.1016/j.tcrr.2023.05.001">https://doi.org/10.1016/j.tcrr.2023.05.001</a>. <a href="https://falkojudt.github.io/files/Chen%20et%20al.%202023%20-%20Research%20Advances%20on%20Internal%20Processes%20Affecting%20Tropical%20Cyclone%20Intensity%20Change%20from%202018–2022.pdf">[pdf]</a>
@@ -52,14 +60,3 @@ author_profile: true
     <li><strong>Judt, F.,</strong> and S. S. Chen, 2013: Reply to “Comments on ‘Convectively Generated Potential Vorticity in Rainbands and Formation of the Secondary Eyewall in Hurricane Rita of 2005’”. <em>J. Atmos. Sci.,</em> <strong>70,</strong> 989–992, <a href="https://doi.org/10.1175/JAS-D-12-0151.1">https://doi.org/10.1175/JAS-D-12-0151.1</a>. <a href="https://falkojudt.github.io/files/Judt%20and%20Chen%202013%20-%20Reply%20to%20“Comments%20on%20‘Convectively%20Generated%20Poten%20...%20ds%20and%20Formation%20of%20the%20Secondary%20Eyewall%20in%20Hurricane%20Rita%20of%202005'”.pdf">[pdf]</a></li>
     <li><strong>Judt, F.,</strong> and S. S. Chen, 2010: Convectively Generated Potential Vorticity in Rainbands and Formation of the Secondary Eyewall in Hurricane Rita of 2005. <em>J. Atmos. Sci.,</em> <strong>67</strong>, 3581–3599, <a href="https://doi.org/10.1175/2010JAS3471.1">https://doi.org/10.1175/2010JAS3471.1</a>. <a href="https://falkojudt.github.io/files/Judt%20and%20Chen%202010%20-%20Convectively%20Generated%20Potential%20Vorticity%20in%20Rainbands%20and%20Formation%20of%20the%20Secondary%20Eyewall%20in%20Hurricane%20Rita%20of%202005.pdf">[pdf]</a></li>
 <!-- </ol> -->
-
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
