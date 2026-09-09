@@ -39,7 +39,7 @@ redirect_from:
  -->
 <iframe src="/files/CV_FalkoJudt_2026-09-09.pdf" width="100%" height="800" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
-You can download a PDF copy of my CV [here](/files/CV_FalkoJudt_2026-09-09.pdf) (last updated 2026-09-09).
+You can download a PDF copy of my CV [here](/files/CV_FalkoJudt_2026-09-09.pdf) (last update: 2026-09-09).
 
 <!-- <h2>Download full CV here</h2>
 <div class="cv-download" style="padding-top: 30px;">
